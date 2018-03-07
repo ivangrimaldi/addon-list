@@ -23,11 +23,11 @@
     "description": "My version - Support any web device that can accept/respond with JSON data. See: https://github.com/fiz1962/ESP-adapter",
     "version": "0.4.2",
     "url": "https://github.com/ivangrimaldi/addon-list/raw/master/ESP-adapter-0.4.5.tgz?raw=true",
-    "checksum": "63d38272d67fe3b64db7b02182c71c495b2e4b5b0bc91c742ef18287f5e2650a",
+    "checksum": "e86f9d32e16563c227aceccaad6ea01abc919780fdbcfb6b20945431df4f8a48",
     "packages": {
       "any": {
         "url": "https://github.com/ivangrimaldi/addon-list/raw/master/ESP-adapter-0.4.5.tgz?raw=true",
-        "checksum": "63d38272d67fe3b64db7b02182c71c495b2e4b5b0bc91c742ef18287f5e2650a"
+        "checksum": "e86f9d32e16563c227aceccaad6ea01abc919780fdbcfb6b20945431df4f8a48"
       }
     },
     "api": {
